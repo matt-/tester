@@ -1,1 +1,3 @@
 test
+<s>test</s>
+<a href="javascript:alert(1)">test</a>
